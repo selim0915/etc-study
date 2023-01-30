@@ -1,9 +1,7 @@
 # etc-study
 
-npm init -y
-npm i --save-dev webpack webpack-cli
-npm run
-npm run build
+## git-test
+- 깃
 
-npx webpack --entry ./src/index.js --output-path ./dist
-npx webpack --entry ./src/index.js --output-path ./dist --mode development // 압축N
+## webpack-test
+- 웹팩
